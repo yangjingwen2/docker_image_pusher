@@ -1,5 +1,4 @@
 mongodb
 #支持私库e
-mongodb/mongodb-enterprise-server:7.0-ubi8-slim
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+mongodb/mongodb-community-server:latest
+
